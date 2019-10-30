@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f8e16a63d15bdbf458ac4c096a3ca153
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioFly: {fileID: 8300000, guid: 1a228cc4360789b4b80ad051e6814206, type: 3}
+  - audioGameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
